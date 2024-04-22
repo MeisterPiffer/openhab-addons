@@ -60,6 +60,7 @@ Here is a list of the supported devices (the ones marked with * have been tested
 - H61E1 LED Strip Light M1
 - H7012 Warm White Outdoor String Lights
 - H7013 Warm White Outdoor String Lights
+- H7020 RGBIC Warm White Smart Outdoor String Lights
 - H7021 RGBIC Warm White Smart Outdoor String
 - H7028 Lynx Dream LED-Bulb String
 - H7041 LED Outdoor Bulb String Lights
